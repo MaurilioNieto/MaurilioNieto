@@ -1,7 +1,5 @@
 # SEJAM BEM VINDOS AO MEU GITHUB💻🚀
-
 <!-- cabeçalhos -->
-
 #
 ##
 ###
